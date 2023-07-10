@@ -6,7 +6,7 @@
 Esse é um projeto Web Responsivo feito a partir uma ideia de site musical: escola de jazz.
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido durante em um evento da OneBitCode com as seguintes tecnologias:
+Esse projeto foi desenvolvido em um evento da OneBitCode com as seguintes tecnologias:
 
 - HTML
 - CSS
